@@ -27,7 +27,13 @@
   "homepage": "https://github.com/yangshun/flow-scripts",
   "npmName": "flow-scripts",
   "dependencies": {
+    "acorn": "^6.1.1",
+    "acorn-jsx": "^5.0.1",
+    "acorn-loose": "^6.0.0",
+    "acorn-stage3": "^2.0.0",
+    "acorn-walk": "^6.1.1",
     "commander": "^2.9.0",
+    "find-imports": "^1.1.0",
     "glob": "^7.1.2",
     "lodash": "^4.17.4"
   }
